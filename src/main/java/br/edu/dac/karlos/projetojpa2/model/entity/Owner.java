@@ -25,7 +25,7 @@ public class Owner{
 	public List<Product> getProducts() {
 		return products;
 	}
-	public void setPlantas(List<Product> products) {
+	public void setProducts(List<Product> products) {
 		this.products = products;
 	}
 	public String getCpf() {
